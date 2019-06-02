@@ -1,3 +1,6 @@
 [submodule "keras-retinanet"]
 	path = keras-retinanet
 	url = https://github.com/fizyr/keras-retinanet.git
+[submodule "keras-deeplab-v3-plus"]
+	path = keras-deeplab-v3-plus
+	url = https://github.com/bonlime/keras-deeplab-v3-plus.git
